@@ -9,3 +9,4 @@ To run the disruption calculation, follow the instructions:
 --aminer_file: the dataset file
 --filename: the output file name to save the disruption values for each article in aminer_file
 ```
+3. After having the disruption for each article at different window sizes, one can run `disruption analysis` notebook for exploration. 
